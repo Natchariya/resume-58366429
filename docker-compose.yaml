@@ -1,7 +1,7 @@
 version: '3.5'
 services:
   myapp:
-    image: theerawut/node-express
+    image: natchariya/resume-58366429
     ports:
       - "8052:3000"
     command: "npm start"
