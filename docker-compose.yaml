@@ -4,5 +4,5 @@ services:
     image: natchariya/resume-58366429
     ports:
       - "8052:3000"
-    command: "npm start"
+    command: "node index.js"
 
